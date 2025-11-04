@@ -1,0 +1,8 @@
+*.qpf
+*.qsf
+*.dcp
+*.jou
+*.log
+work/
+transcript
+vsim.wlf
